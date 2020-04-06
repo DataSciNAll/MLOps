@@ -20,6 +20,8 @@ Without the DevOps practices for Machine Learning, customers can be negatively i
 Microsoft product engineering team has published a Github project that contains a collection of MLOps examples and solutions.  This should be your main landing page for the latest technical assets related to MLOps.
 
   * https://github.com/microsoft/MLOps
+  
+  * https://docs.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment#what-is-mlops
 
 
 ### Azure MLOps Podcast
@@ -28,10 +30,15 @@ Jordan Edwards, Program Mananger for MLOps, was a guest on TWIML where he talked
 TWIMLAI = This Week in Machine Learning and AI
 
   * https://twimlai.com/twiml-talk-321-enterprise-readiness-mlops-and-lifecycle-management-with-jordan-edwards/
+  
+Microsoft Mechanics
+  * https://www.youtube.com/watch?v=X7GR4ANn45s&feature=youtu.be 
 
 ### Sample MLOps tutorial
 * https://github.com/chronicle17/DSDevOps
 * https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/mlops-python  (Reference Architecture)
+* https://rsethur.github.io/MLOps/ (MLOps Recipes)
+* https://github.com/Azure-Samples/MLOpsDatabricks (Databricks)
 
 ### Presentation
 There is a PowerPoint presentation authored by Mark Tabladillo and Jason Virtue.  The slide deck supports introductory conversations ("art of the possible") for new end-users.  Go to the slides folder for the pptx.
